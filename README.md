@@ -17,5 +17,6 @@
 
 
 ### If you're a recruiter:
+- 🦾 I created the ["Acts as a Friend" prompt](https://github.com/f/awesome-chatgpt-prompts/pull/508) in [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts?tab=readme-ov-file#act-as-a-friend) by fine-tunning an OpenAI DaVinci model on the repository itself. 
 - 💻 You can see a sample of my Ruby code on [Exercism](https://exercism.org/profiles/FlorinPopaCodes/solutions?track_slug=ruby).
 - 🥬 You can check my up-to-date profile on [LinkedIn](https://www.linkedin.com/in/florin-popa-08405566/).
