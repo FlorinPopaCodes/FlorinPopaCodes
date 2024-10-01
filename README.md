@@ -8,9 +8,6 @@
 
 
 ### If you struggle with productivity:
-- 🧘 You could try a free month of the meditation app [Waking UP](https://dynamic.wakingup.com/shareOpenAccess/SCF6B29F6)
-    - Try to get to at least 60 minutes of meditation per day. It's a game changer.
-    - Mix and match the different types of meditation to find what works best for you.
 - 📚 If you need more structure in your day, try a free month of [Focusmate Plus](https://www.focusmate.com/?fmreferral=DRz3p70h5F) (and I also get one for free).
     - There's a [Focusmate Software Developers Group](https://www.focusmate.com/signup/softwaredevelopers) that you can join to pair with other developers.
     - Here's my [Focusmate Profile](https://www.focusmate.com/user/florin-popa-codes) if you want to pair with me sometimes.
