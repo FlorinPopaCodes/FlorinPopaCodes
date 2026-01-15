@@ -15,5 +15,5 @@
 - got the opportunity to be paid to learn Ruby and work at on of the best companies in Boston
 - company got aquired by PE and I was forced to find something better
 - spent a year at Smily syncing data into Airbnb
-- spend another year in a Nigerian fintech building
+- spend another year in a Nigerian fintech building savings features
 - freelancing ever since
