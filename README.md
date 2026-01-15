@@ -1,19 +1,19 @@
-### Hi there, fellow traveller! 👋
+## Links
 
-### If you're a developer, you might be interested in the following:
+- 🥬 [LinkedIn](https://www.linkedin.com/in/florin-popa-08405566/)
+- 🖼️ [Florin Popa Personal Portfolio](https://florinpopa.dev/)
+- You can probably rabbit-hole into my curated list of [GitHub Stars](https://github.com/FlorinPopaCodes?tab=stars)
+- If you struggle with productivity while remote, you should really try [Focusmate Plus](https://www.focusmate.com/)
 
-- ✨ My longly curated GitHub Stars collection: [GitHub Stars](https://github.com/FlorinPopaCodes?tab=stars)
-    - You might find a few gems in there.
-- 🪐 [AstroBuildAction](https://github.com/FlorinPopaCodes/AstroBuildAction) is a which checks runs a Github action to check if the stars are aligned, in which case it fails. This prevents a lot of tears and late nights when deploying when the stars don't allow it.
+## Informal History
 
-
-### If you struggle with productivity:
-- 📚 If you need more structure in your day, try a free month of [Focusmate Plus](https://www.focusmate.com/?fmreferral=DRz3p70h5F) (and I also get one for free).
-    - There's a [Focusmate Software Developers Group](https://www.focusmate.com/signup/softwaredevelopers) that you can join to pair with other developers.
-    - Here's my [Focusmate Profile](https://www.focusmate.com/user/florin-popa-codes) if you want to pair with me sometimes.
-
-
-### If you're a recruiter:
-- 🦾 I created the ["Acts as a Friend" prompt](https://github.com/f/awesome-chatgpt-prompts/pull/508) in [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts?tab=readme-ov-file#act-as-a-friend) by fine-tunning an OpenAI DaVinci model.
-- 💻 You can see a sample of my Ruby code on [Exercism](https://exercism.org/profiles/FlorinPopaCodes/solutions?track_slug=ruby).
-- 🥬 You can check my up-to-date profile on [LinkedIn](https://www.linkedin.com/in/florin-popa-08405566/).
+- self-taught, started in kindergarten, coding for 30+ years
+- failed startup during highschool with two other for a car classified ads platform
+- started working proffesionally since the 2nd year of college. first month salary was 100$
+- worked in an web agency where I had to do everything except design and sales
+- moved to startup accelerator where I lead the team that delivered a project leading to a company funded
+- got the opportunity to be paid to learn Ruby and work at on of the best companies in Boston
+- company got aquired by PE and I was forced to find something better
+- spent a year at Smily syncing data into Airbnb
+- spend another year in a Nigerian fintech building
+- freelancing ever since
