@@ -17,3 +17,6 @@
 - spent a year at Smily syncing data into Airbnb
 - spend another year in a Nigerian fintech building savings features
 - freelancing ever since
+
+## Projects
+- [EduChk](https://github.com/FlorinPopaCodes/educhk) - lightweight academic domain checker for edge workers
