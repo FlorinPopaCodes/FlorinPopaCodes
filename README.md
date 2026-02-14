@@ -2,6 +2,7 @@
 
 - 🥬 [LinkedIn](https://www.linkedin.com/in/florin-popa-08405566/)
 - 🖼️ [Florin Popa Personal Portfolio](https://florinpopa.dev/)
+- 📄 [CV](https://github.com/FlorinPopaCodes/cv/releases/latest/download/cv.pdf)
 - You can probably rabbit-hole into my curated list of [GitHub Stars](https://github.com/FlorinPopaCodes?tab=stars)
 - If you struggle with productivity while remote, you should really try [Focusmate Plus](https://www.focusmate.com/)
 
