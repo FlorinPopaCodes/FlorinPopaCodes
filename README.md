@@ -20,3 +20,6 @@
 
 ## Projects
 - [EduChk](https://github.com/FlorinPopaCodes/educhk) - lightweight academic domain checker for edge workers
+- [termoficare-data](https://github.com/FlorinPopaCodes/termoficare-data) - tracking heating status in Bucharest
+- [aeron-miller-index](https://github.com/FlorinPopaCodes/aeron-miller-index) - financial index based on the local Aeron market
+- [dotfiles](https://github.com/FlorinPopaCodes/dotfiles) - had to be done 🤷
