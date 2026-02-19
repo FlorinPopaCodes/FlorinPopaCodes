@@ -24,3 +24,4 @@
 - [termoficare-data](https://github.com/FlorinPopaCodes/termoficare-data) - tracking heating status in Bucharest
 - [aeron-miller-index](https://github.com/FlorinPopaCodes/aeron-miller-index) - financial index based on the local Aeron market
 - [dotfiles](https://github.com/FlorinPopaCodes/dotfiles) - had to be done 🤷
+- [Follow the Sun Calculator](https://github.com/FlorinPopaCodes/follow-the-sun-calculator) - plan 24/7 shift coverage across timezones for distributed teams
