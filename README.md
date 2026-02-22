@@ -21,7 +21,16 @@
 
 ## Projects
 - [EduChk](https://github.com/FlorinPopaCodes/educhk) - lightweight academic domain checker for edge workers
+- [dotfiles](https://github.com/FlorinPopaCodes/dotfiles) - had to be done 🤷
+
+## [Flat Data](https://githubnext.com/projects/flat-data) Self Updating Repositories
 - [termoficare-data](https://github.com/FlorinPopaCodes/termoficare-data) - tracking heating status in Bucharest
 - [aeron-miller-index](https://github.com/FlorinPopaCodes/aeron-miller-index) - financial index based on the local Aeron market
-- [dotfiles](https://github.com/FlorinPopaCodes/dotfiles) - had to be done 🤷
-- [Follow the Sun Calculator](https://github.com/FlorinPopaCodes/follow-the-sun-calculator) - plan 24/7 shift coverage across timezones for distributed teams
+
+## Tools
+- [Follow the Sun Calculator](https://github.com/FlorinPopaCodes/follow-the-sun-calculator) - plan 24/7 shift coverage across timezones for distributed team
+- [Time Value Calculaor](https://github.com/FlorinPopaCodes/time-value-calculator) - calculates how much to spend to save time
+
+## Toys
+- [Gossip Glomers in Go](https://github.com/FlorinPopaCodes/gossip-glomers) - distributed systems challenges using Maelstrom
+- [Claude Code in Go](https://github.com/FlorinPopaCodes/codecrafters-claude-code-go) - a Claude Code clone built in go using [CodeCrafters](https://codecrafters.io/)
