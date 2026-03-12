@@ -1,9 +1,8 @@
 ## Links
 
 - 🥬 [LinkedIn](https://www.linkedin.com/in/florin-popa-08405566/)
-- 🖼️ [Florin Popa Personal Portfolio](https://florinpopa.dev/)
 - 📄 [CV](https://github.com/FlorinPopaCodes/cv/releases/latest/download/cv.pdf)
-- You can probably rabbit-hole into my curated list of [GitHub Stars](https://github.com/FlorinPopaCodes?tab=stars)
+- 🖼️ [Florin Popa Personal Portfolio](https://florinpopa.dev/)
 
 ## Projects
 - [EduChk](https://github.com/FlorinPopaCodes/educhk) - lightweight academic domain checker for edge workers
@@ -37,3 +36,7 @@
 - spent a year at Smily syncing data into Airbnb
 - spent another year in a Nigerian fintech building savings features
 - freelancing ever since
+
+---
+
+You can probably rabbit-hole into my curated list of [GitHub Stars](https://github.com/FlorinPopaCodes?tab=stars)
