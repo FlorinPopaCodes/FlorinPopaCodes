@@ -4,6 +4,15 @@
 - 📄 [CV](https://github.com/FlorinPopaCodes/cv/releases/latest/download/cv.pdf)
 - 🖼️ [Florin Popa Personal Portfolio](https://florinpopa.dev/)
 
+<div align="center">
+  <a href="https://commit-history.com/FlorinPopaCodes">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/FlorinPopaCodes?theme=dark" />
+      <img alt="FlorinPopaCodes's commit history" src="https://commit-history.com/embed/FlorinPopaCodes" />
+    </picture>
+  </a>
+</div>
+
 ## Systems & Deep Dives
 - [Gossip Glomers in Go](https://github.com/FlorinPopaCodes/gossip-glomers) - distributed systems challenges using Maelstrom
 - [Redis in Ruby](https://github.com/FlorinPopaCodes/codecrafters-redis-ruby) - build your own Redis in Ruby using [CodeCrafters](https://codecrafters.io/)
